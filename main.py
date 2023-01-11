@@ -10,7 +10,7 @@ def add_full_name(user: dict) -> None:
 # }
 
 user = {
-  "first_name": "Ivan",
+  "first_name": "Roman",
   "last_name": "Vasylchenko",
 }
 
